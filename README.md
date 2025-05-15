@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">A passionate Software Developer from India, Completed my Masters in Information Technology at UNC Charlotte.</h3>
+<h3 align="left">A passionate Software Developer from India, Completed my Master's in Information Technology at UNC Charlotte.</h3>
 
 ###
 
@@ -24,7 +24,7 @@
     🌱 I’m currently learning DSA, Advanced Python Concepts, and more React.<br><br>
     🏢 I'm currently looking for Co-Op and Full Time Roles.<br><br>
     📫 How to reach me- nishantacharekar12@gmail.com<br><br>
-    📄 Know about my experiences <a href="https://drive.google.com/file/d/11j2U5hjEmB3Vak3SOr7JF8x6fHsqmeP9/view?usp=sharing" target="_blank">here.</a><br><br>
+    📄 Know about my experiences <a href="https://drive.google.com/file/d/1dGLJ81LGLK4f5_1A4bD9OCyl8MEKzAjV/view?usp=sharing">here.</a><br><br>
     📹 I am a Streamer and have a YouTube Channel named <a href="https://www.youtube.com/@FireEmperor" target="_blank">FireEmperor</a> with 2.08K Subscribers and 310,651 views
 </p>
 

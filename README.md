@@ -25,6 +25,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
+![Snake animation](https://github.com/{NishantA9}/{NishantA9/NishantA9}/blob/main/dist/github-contribution-grid-snake-dark.svg)
+
 ---
 [![](https://komarev.com/ghpvc/?username=NishantA9&icon=0&color=0)](https://visitcount.itsvg.in)
 
